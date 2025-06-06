@@ -11,9 +11,9 @@
 
 ## Stats
 <img  align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=nishantksudo&show_icons=true&theme=dark" alt="nishantksudo"/>
-<!-- &hide_progress=true for top lang-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantksudo&theme=dark" alt="nishantksudo"/> 
-<br><br><br><br><br>
+<!--for top lang-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantksudo&hide_progress=true&theme=dark" alt="nishantksudo"/> 
+<br><br><br><br><br> -->
 
 <img align="center" src="https://streak-stats.demolab.com/?user=nishantksudo&theme=shadow-brown" alt="nishantksudo"/> </p>
 
