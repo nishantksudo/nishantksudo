@@ -10,8 +10,8 @@
 <br><img alt="nishantksudo" src="https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,blender,vercel&theme=dark"/> </br>
 
 ## Stats
-<img  align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=nishantksudo&show_icons=true&theme=dark" 
-alt="nishantksudo"/>
+<img  align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=nishantksudo&show_icons=true&theme=dark" alt="nishantksudo"/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantksudo&hide_progress=true&theme=dark" alt="nishantksudo"/> 
 <br><br><br><br><br>
 
